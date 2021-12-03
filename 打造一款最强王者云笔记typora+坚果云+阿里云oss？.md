@@ -9,8 +9,6 @@ tags:
 - typora
 ---
 
-
-
 ## 打造一款最强王者云笔记"typora+坚果云+阿里云oss"？
 
 `Typora-TheKingOfCloudNotes`
@@ -47,6 +45,14 @@ tags:
 最终效果如下：
 
 ![image-20211203234544922](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211203234544922.png)
+
+## 本文已在github开源
+
+关于本篇文章，已开源到github，大家可在github上访问本篇文章，后续也将持续更新……😊
+
+https://github.com/OnlyOnexl/Typora-TheKingOfCloudNotes
+
+![image-20211204000305710](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211204000305710.png)
 
 ## 1、常见的云笔记选择
 
