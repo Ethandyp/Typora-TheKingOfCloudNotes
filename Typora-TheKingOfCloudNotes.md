@@ -25,6 +25,16 @@
 
 3.关于IT数据容灾策略及数据维护原则
 
+最终效果如下：
+
+打造一款最强王者云笔记"typora+坚果云+阿里云oss"
+
+![image-20211203234617357](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211203234617357.png)
+
+最终效果如下：
+
+![image-20211203234544922](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211203234544922.png)
+
 ## 1、常见的云笔记选择
 
 ### 1.一个优秀的云笔记该具有什么样的功能
