@@ -16,9 +16,13 @@
 
 `lovexyy-2021.12.04-v1`
 
-![image-20211204151517548](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211204151517548.png)
+链接：https://pan.baidu.com/s/19Calca7xkjjYbOwX0YGBBw 
+提取码：wqb8 
+--来自百度网盘超级会员V6的分享
 
+记得要安装`FiraCode、OperatorMono`字体哦。
 
+![](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207140806163.png)
 
 (3)使用方法：将这个主题文件放到typora的主体路径下，重启typora即可
 

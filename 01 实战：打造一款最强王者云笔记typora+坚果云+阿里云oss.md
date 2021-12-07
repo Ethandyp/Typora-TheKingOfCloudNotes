@@ -21,7 +21,7 @@ picgo
 提取码：wqb8 
 --来自百度网盘超级会员V6的分享
 
-![image-20211203213333379](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211203213333379.png)
+![image-20211207140806163](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207140806163.png)
 
 ## 1.下载坚果云并安装
 
