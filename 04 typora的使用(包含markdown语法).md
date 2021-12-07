@@ -333,6 +333,14 @@ yum install -y sl
 
 ### 3.优点
 
+> Typora 最舒服的是所见即所得的排版，以及实时渲染带来的沉浸式写作体验，非常舒服。
+
+用官方的话描述：
+
+> Typora 提供同时读写的无缝体验，删除了预览窗口、模式切换器、markdown 源代码的语法符号以及所有其他不必要的干扰。
+>
+> 相反，提供了真正的实时预览功能，可帮助您专注于内容本身。
+
 #### :round_pushpin: 所见即所得
 
 `这个功能贼好用，自从使用这个功能后，其他的2边编写方式都是垃圾哈哈……`
@@ -427,7 +435,35 @@ Windows：https://wwe.lanzoui.com/i8PP3wzahrg
 
 其实不然，Typora 一直没有开源，更没有承诺过终身免费，因此对于收费这件事来说，虽说突然，但却也一点不意外。
 
-### 4、typora图标(666)
+### 4、缺点
+
+#### 📍 打开大文件时会卡死
+
+2021年12月7日14:35:00update
+
+希望typora的后续版本打开大文件渲染，并且不卡死（现在 typora 打开几万字的 markdown 经常卡死）；一般应该不会怎么超过10w字的吧，一个m
+
+![image-20211207144224677](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207144224677.png)
+
+![image-20211207145754727](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207145754727.png)
+
+
+
+- 哈哈：打开有点慢，但还是可以接受的，几乎无感知，除非文档内容很多的吧……
+
+![image-20211207150428691](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207150428691.png)
+
+#### 📍 不支持自己的图床、云端同步
+
+2021年12月7日14:34:22Update
+
+其实 Typora 的核心卖点就是沉浸式的输入体验，其它很多，比如图床、云端同步都没有，需要自己去弄，并且现在其他 Markdown 编辑器的编辑体验其实也不差了。
+
+#### 📍 typora画类图好像不太优秀哈哈
+
+![image-20211207150205426](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207150205426.png)
+
+### 5、typora图标(666)
 
 typora图标(typora真的666啊)，可使用快捷键`win + 。`来快速打开。
 
@@ -739,7 +775,7 @@ Object
 
 
 
-### 5、Typora常见配置
+### 6、Typora常见配置
 
 #### 1.本地编辑md文件一般配置方法(已解决)
 
