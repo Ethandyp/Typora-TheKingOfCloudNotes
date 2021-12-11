@@ -20,11 +20,13 @@
 
 (2)最新版css主题文件位置
 
-`2021.12.03-typora相关软件`
+链接：https://pan.baidu.com/s/113BGigE_jOjJLpHm91I2jA 
+提取码：ao3s 
+--来自百度网盘超级会员V6的分享
 
-github仓库：https://github.com/OnlyOnexl/Typora-TheKingOfCloudNotes/tree/main/softwares
+![image-20211211225044664](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211225044664.png)
 
-![image-20211211100950314](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211100950314.png)
+![image-20211211225056566](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211225056566.png)
 
 
 

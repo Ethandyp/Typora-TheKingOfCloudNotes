@@ -17,9 +17,11 @@ picgo
 
 ## 实验软件
 
-github仓库：https://github.com/OnlyOnexl/Typora-TheKingOfCloudNotes/tree/main/softwares
+链接：https://pan.baidu.com/s/113BGigE_jOjJLpHm91I2jA 
+提取码：ao3s 
+--来自百度网盘超级会员V6的分享
 
-![image-20211211100950314](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211100950314.png)
+![image-20211211225011422](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211225011422.png)
 
 ## 1.下载坚果云并安装
 
