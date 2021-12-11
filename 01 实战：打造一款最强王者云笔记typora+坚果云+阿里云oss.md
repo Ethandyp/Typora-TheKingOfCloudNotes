@@ -17,9 +17,9 @@ picgo
 
 ## 实验软件
 
-github仓库：
+github仓库：https://github.com/OnlyOnexl/Typora-TheKingOfCloudNotes/tree/main/softwares
 
-![image-20211211095208775](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211095208775.png)
+![image-20211211100950314](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211100950314.png)
 
 ## 1.下载坚果云并安装
 

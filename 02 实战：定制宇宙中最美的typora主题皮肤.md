@@ -22,15 +22,9 @@
 
 `2021.12.03-typora相关软件`
 
-链接：https://pan.baidu.com/s/19Calca7xkjjYbOwX0YGBBw 
-提取码：wqb8 
---来自百度网盘超级会员V6的分享
+github仓库：https://github.com/OnlyOnexl/Typora-TheKingOfCloudNotes/tree/main/softwares
 
-记得要安装`FiraCode、OperatorMono`字体哦。
-
-![image-20211211094314188](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211094314188.png)
-
-![image-20211211094341931](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211094341931.png)
+![image-20211211100950314](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211100950314.png)
 
 
 
