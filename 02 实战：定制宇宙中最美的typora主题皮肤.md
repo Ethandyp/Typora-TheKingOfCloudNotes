@@ -2,19 +2,25 @@
 
 ![image-20211207110726837](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207110726837.png)
 
+## 文档更新时间log
+
+- 2021年12月11日09:32:37
+
+  更新内容：修改typora编辑界面边框阴影颜色为粉色，应该会好看点吧哈哈😂，主题文件为`lovexyy-2021.12.11.css`。
+
 ## 1、最新版typora主题版本css文件位置
 
-(1)我们先来看下这个主题md文件效果
+(1)我们先来看下这个`lovexyy-2021.12.11.css`主题md文件效果
 
-![image-20211204152321879](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211204152321879.png)
+![image-20211211093811686](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211093811686.png)
 
-![image-20211207104922673](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207104922673.png)
+![image-20211211093958839](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211093958839.png)
 
 
 
 (2)最新版css主题文件位置
 
-`lovexyy-2021.12.04-v1`
+`2021.12.03-typora相关软件`
 
 链接：https://pan.baidu.com/s/19Calca7xkjjYbOwX0YGBBw 
 提取码：wqb8 
@@ -22,7 +28,11 @@
 
 记得要安装`FiraCode、OperatorMono`字体哦。
 
-![](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207140806163.png)
+![image-20211211094314188](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211094314188.png)
+
+![image-20211211094341931](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211094341931.png)
+
+
 
 (3)使用方法：将这个主题文件放到typora的主体路径下，重启typora即可
 

@@ -17,11 +17,9 @@ picgo
 
 ## 实验软件
 
-链接：https://pan.baidu.com/s/19Calca7xkjjYbOwX0YGBBw 
-提取码：wqb8 
---来自百度网盘超级会员V6的分享
+github仓库：
 
-![image-20211207140806163](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211207140806163.png)
+![image-20211211095208775](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211095208775.png)
 
 ## 1.下载坚果云并安装
 
