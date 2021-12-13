@@ -3,12 +3,84 @@
 ## 文章更新时间log
 
 ```bash
+2021年12月13日15:16:12 更新mark makdown软件
 2021年12月10日09:38:52 更新几款开源的makdown软件
 ```
 
 ## 📍 Mark text 很好用
 
 ![image-20211210094247833](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211210094247833.png)
+
+
+
+📍 文章：2021年12月13日14:59:58(来自微信号)
+
+> 推荐一个免费开源的 Markdown 编辑器
+
+> **编程导航** 致力于推荐优质编程资源 💎
+>
+> 项目开源仓库：https://github.com/liyupi/code-nav
+>
+> 跪求一个 star ⭐️
+
+哈喽大家好！我是编程导航的小编火宝。前段时间 Typora 宣布将升级并开始收费，想必大家都有所耳闻，Typora 升级后最多只可支持 3 台设备，并且价值 14.99 刀。大家可以根据自己的需求选择是否升级购买，毕竟之前的版本还是可以继续使用哒～
+
+![image-20211213150034948](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150034948.png)
+
+那么除了 Typora 之外，我们还有什么其他的 Markdown 编辑器可以选择呢？这不，今天小编就跟大家推荐一款不仅免费甚至还开源的  Markdown 编辑器！
+
+可能因为 Typora 宣布了收费的信息，这款 Markdown 编辑器的项目迅速登上了 GitHub 的热榜，至今已经获得 22.5k star，下面就让我们一起来看看吧～
+
+### Mark Text
+
+Mark Text 是一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性。Linux、macOS 和 Windows 均适用。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/dQIjWuJXqWdGeerjP4LNro0a3OibXQtkWWYUB4NNJhwads0Y5b0TlgjV5WudkvfZqDEsjvKGMfqZoFDOQTr2ibug/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+### 功能特征
+
+- 界面简洁，并且可以实时预览
+- 支持 CommonMark Spec 和 GitHub Flavored Markdown Spec，选择性支持Pandoc markdown
+- 支持表单和各类图表
+- 支持 GFM 代码围栏，prismjs 高亮显示
+- Markdown 扩展，例如数学表达式  (KaTeX)、前端和表情符号
+- 可输出 HTML 和 PDF 文件
+- 可直接从剪贴板粘贴图像
+
+### 六大主题
+
+Mark Text 提供了六种美观的主题，分别是：Cadmium Light、Graphite Light、Ulysses Light、Dark、Material Dark、One Dark。个人比较喜欢 Material Dark 这个主题。
+
+| ![image-20211213150314217](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150314217.png) | **![image-20211213150334576](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150334576.png)** |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![image-20211213150437730](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150437730.png) | ![image-20211213150452002](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150452002.png) |
+| ![image-20211213150504826](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150504826.png) | ![image-20211213150514611](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150514611.png) |
+
+### 编辑模式
+
+Mark Text 包含三种编辑模式：Source Code mode，Typewriter mode，Focus mode。
+
+Source Code mode：源码模式，可以自由切换实时预览和源码编辑
+
+![](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/640uyVgf.gif)
+
+Typewriter mode：打字机模式
+
+![](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/64yggF0.gif)
+
+Focus mode：专注模式，当我们书写某一段文字时，其他部分内容会变灰，这让我们可以更加专注
+
+![](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/Gtf640.gif)
+
+### 使用感受
+
+初步使用下来最大的感触就是 Mark Text 不像 Typora 一样支持中文，不过这只是涉及到使用前期设置相关，并不影响我们后续的写作使用，因为 Markdown 的语法都是一致的。
+
+![image-20211213150955557](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213150955557.png)
+
+本期的介绍就到这里啦～欢迎有需要的同学试试，如果本文对您有帮助，也请帮忙点个 **赞 + 在看** 啦！❤️
+
+哈哈，我还是喜欢`yyds-typora`
 
 ## 📍 MWeb
 
