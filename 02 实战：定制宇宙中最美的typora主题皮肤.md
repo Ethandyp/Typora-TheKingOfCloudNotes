@@ -4,6 +4,10 @@
 
 ## 文档更新时间log
 
+- 2021年12月13日10:28:27
+
+  更新内容：修改typora正文及左侧目录字体为`霞鹜文楷`。主题文件为`lovexyy-2021.12.12.css`。
+  
 - 2021年12月11日09:32:37
 
   更新内容：修改typora编辑界面边框阴影颜色为粉色，应该会好看点吧哈哈😂，主题文件为`lovexyy-2021.12.11.css`。
@@ -12,9 +16,9 @@
 
 (1)我们先来看下这个`lovexyy-2021.12.11.css`主题md文件效果
 
-![image-20211211230024450](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211230024450.png)
+![image-20211213103100202](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213103100202.png)
 
-![image-20211211093958839](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211093958839.png)
+![image-20211213103141378](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213103141378.png)
 
 
 
@@ -26,7 +30,7 @@
 
 ![image-20211211225044664](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211225044664.png)
 
-![image-20211211225056566](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211225056566.png)
+![image-20211213103009121](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213103009121.png)
 
 
 
@@ -960,3 +964,22 @@ pie（文件夹）
 配置后效果如下：
 
 ![image-20210328074223541](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20210328074223541.png)
+
+### 📍 设置左侧目录字体(亲测成功)-2021.12.13
+
+- 配置方法
+
+![image-20211213102642257](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213102642257.png)
+
+```cs
+/*设置左侧目录字体(亲测成功)-2021.12.13*/
+header, .context-menu, .megamenu-content, footer{
+    font-family: "霞鹜文楷","SimSun", "Arial", sans-serif;
+}
+```
+
+
+
+- 配置效果
+
+![image-20211213102752451](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213102752451.png)
