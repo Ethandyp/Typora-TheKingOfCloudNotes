@@ -4,6 +4,10 @@
 
 ## 文档更新时间log
 
+- 2021年12月15日21:43:12
+
+  更新内容：typora的代码块的光标颜色配置；及更改字体为`Operator Mono Light`。主题文件为`lovexyy-2021.12.15.css`。
+  
 - 2021年12月13日10:28:27
 
   更新内容：修改typora正文及左侧目录字体为`霞鹜文楷`。主题文件为`lovexyy-2021.12.12.css`。
@@ -30,7 +34,7 @@
 
 ![image-20211211225044664](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211211225044664.png)
 
-![image-20211213103009121](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213103009121.png)
+![image-20211215214304887](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211215214304887.png)
 
 
 
@@ -983,3 +987,22 @@ header, .context-menu, .megamenu-content, footer{
 - 配置效果
 
 ![image-20211213102752451](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211213102752451.png)
+
+### 📍 typora的代码块的光标颜色配置(亲测成功)-2021.12.15
+
+- 配置方法
+
+![image-20211215214112993](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211215214112993.png)
+
+```bash
+/*typora的代码块的光标颜色配置:2021.12.15update*/
+.cm-s-inner .CodeMirror-cursor {
+    border-left: solid rgb(96, 255, 96) !important;
+}
+```
+
+
+
+- 配置效果
+
+![image-20211215214153799](https://bucket-hg.oss-cn-shanghai.aliyuncs.com/img/image-20211215214153799.png)
